@@ -15,21 +15,24 @@
 
 
 ### Project Description
-[2-3 lines about what your project does]
+The NULLAURA is a dark-comedy reverse-psychology arcade simulator designed for anyone who has ever accidentally said "You too!" to a waiter telling them to enjoy their meal. Instead of teaching you how to fix your social skills, our AI quantifies your cringe, penalizes your existence, and generates an official, structured disaster dossier to document your inevitable descent into social bankruptcy.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Modern social interaction lacks standardized, high-precision telemetry for measuring social failure. People make awkward small talk, mess up job interviews, or commit social faux pas without ever knowing their exact numerical damage score or receiving official hazard rankings.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+An AI-powered arcade telemetry platform that gamifies social disgrace. By feeding the engine your daily awkward encounters, the system:
+:) Evaluates your choices across 3 escalating tiers of pure regret.
+:) Calculates massive negative Aura penalties in real time (from -50 for a mundane cop-out to -15,000 for catastrophic chaotic moves).
+:) Generates unhinged disaster logs to formally certify you as a "Walking Social Disaster."
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used: JavaScript
+- Frameworks used: Next.js
+- Libraries used: @google/genai (Gemini SDK), Tailwind CSS, Framer Motion, Lucide React (Icons)
+- Tools used: Visual Studio Code, Git & GitHub
 
 For Hardware:
 - [List main components]
@@ -48,7 +51,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="940" height="229" alt="image" src="https://github.com/user-attachments/assets/36cc604b-eb28-4c18-90e0-b05f270e7455" />
+
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)

@@ -208,7 +208,7 @@ export default function Home() {
         <header className="rounded border border-zinc-300 bg-white p-4 shadow-sm">
           <div className="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
             <div>
-              <h1 className="text-lg font-black tracking-tight text-red-600">NEGATIVE AURA ENGINE</h1>
+              <h1 className="text-lg font-black tracking-tight text-red-600">NULLAURA</h1>
               <p className="mt-1 text-[10px] font-bold text-zinc-500">Predict Your Negative Aura</p>
             </div>
             <div className="flex flex-wrap justify-between items-center gap-2">

@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Negative Aura Engine",
+  title: "NullAura",
   description: "A reverse-psychology arcade simulator for social disasters.",
 };
 

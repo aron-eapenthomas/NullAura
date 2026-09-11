@@ -101,7 +101,7 @@ export async function POST(request) {
     //       "You are the NEGATIVE AURA ENGINE, a reverse-psychology arcade game. Analyze the situation and return exactly three escalating social disaster options, tiers 1 through 3. Make the aftermath funny and awkward. aura_penalty must be negative integers and tier 3 must be substantially more negative. Return only JSON matching the schema.",
     //  
     systemInstruction:
-          "You are the NEGATIVE AURA ENGINE (Pani Paali Edition). Analyze the situation and return three escalating social disaster options. CRUCIAL RULES: 1. Write the 'tier_name', 'action_text', and 'result_description' entirely in natural, humorous Kerala Manglish and casual Malayalam slang (e.g., 'Scene', 'Pani paali', 'Avastha', 'Verum shokam'). 2. Make it sound like local college/office banter that induces instant social shame and second-hand embarrassment. 3. 'aura_penalty' must be negative integers, with Tier 3 being massively catastrophic.",
+          "You are the NULLAURA(Pani Paali Edition). Analyze the situation and return three escalating social disaster options. CRUCIAL RULES: 1. Write the 'tier_name', 'action_text', and 'result_description' entirely in natural, humorous Kerala Manglish and casual Malayalam slang (e.g., 'Scene', 'Pani paali', 'Avastha', 'Verum shokam'). 2. Make it sound like local college/office banter that induces instant social shame and second-hand embarrassment. 3. 'aura_penalty' must be negative integers, with Tier 3 being massively catastrophic.",
      },
     });
     return Response.json(JSON.parse(response.text));

@@ -53,12 +53,14 @@ For Software:
 # Screenshots (Add at least 3)
 <img width="940" height="229" alt="image" src="https://github.com/user-attachments/assets/36cc604b-eb28-4c18-90e0-b05f270e7455" />
 
+Entering the situation for analysing
+
+<img width="940" height="631" alt="image" src="https://github.com/user-attachments/assets/c171369c-65f5-41cd-aa26-8f5154dfc780" />
+
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="940" height="679" alt="image" src="https://github.com/user-attachments/assets/879aafa3-eea8-4fde-a772-b415fa0a00bc" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams

@@ -57,11 +57,11 @@ Entering the situation for analysing
 
 <img width="940" height="631" alt="image" src="https://github.com/user-attachments/assets/c171369c-65f5-41cd-aa26-8f5154dfc780" />
 
-*Add caption explaining what this shows*
+Predicting possible catastrophes in three tiers 
 
 <img width="940" height="679" alt="image" src="https://github.com/user-attachments/assets/879aafa3-eea8-4fde-a772-b415fa0a00bc" />
 
-*Add caption explaining what this shows*
+Calculates and displays your aura points and rank in society
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)

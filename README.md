@@ -2,17 +2,17 @@
 
 
 
-# [Project Name] 🎯
+# NULLAURA 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Byte Kings
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Salvin Joseph - Rajiv Gandhi Institute of Technology, Kottayam
+- Member 2: Aron Eapen Thomas - Rajiv Gandhi Institute of Technology, Kottayam
+
 
 ### Project Description
 [2-3 lines about what your project does]
